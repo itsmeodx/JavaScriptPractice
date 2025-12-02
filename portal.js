@@ -36,4 +36,4 @@ addProject('Console App',
 );
 
 // Placeholder
-addPlaceholder('', 'This is a wplaceholder for upcoming project', '');
+addPlaceholder('', 'This is a placeholder for upcoming project', '');
